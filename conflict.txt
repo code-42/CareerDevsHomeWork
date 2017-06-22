@@ -1,0 +1,1 @@
+Try to merge the branch with the edited file to create a conflict, solve the conflict
